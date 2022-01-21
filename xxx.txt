@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "null"
+git branch -M main
+git remote add origin git@github.com:1063885523/gitTest.git
+git push -u origin main
